@@ -1,10 +1,12 @@
-## Strategy
+### Strategy
 
 Combine the following functions, they are just modified a little bit from the functions given in the lecture mainly because that 
 
 1. list starts from 0 in python.
 2. the min heap should be used in this case. 
 
+
+### Functions
 
 
 **Build Heap**
